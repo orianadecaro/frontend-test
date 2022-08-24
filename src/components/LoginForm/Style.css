@@ -1,0 +1,58 @@
+  .conteiner-form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 380px;
+    align-items: center;
+    justify-items: center;
+    margin-left: 80px;
+    padding-top: 80px;
+    color: antiquewhite;
+  }
+
+  .label {
+    font-size: 32px;
+    font-weight: 600;
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    gap: 10px;
+
+  }
+
+  .label input {
+    font-size: 25px;
+    border-radius: 10px;
+  }
+
+  .btnLogin {
+    font-size: 32px;
+    font-weight: 600;
+    width: 250px;
+    gap: 10px;
+    border-radius: 10px;
+    background-color: #ff1bff;
+    color: aliceblue;
+    cursor: pointer;
+  }
+
+  .btnLogin:hover {
+    background-color: #ecff1b;
+    color: aliceblue;
+  }
+
+  .textForm {
+    font-size: 52px;
+    margin-left: 10px;
+  }
+
+  .textRegister {
+    color: aliceblue;
+    text-decoration: none;
+  }
+
+  .alertLogin{
+    color: #fc0000;
+    font-size: 20px;
+    font-weight: 800;
+  }

@@ -1,0 +1,38 @@
+.container-navBar{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #f01bd7;
+    height: 50px;
+}
+
+.navbar-ul{ 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 30px;
+    gap:50px;
+    list-style: none;
+
+    
+}  
+
+
+.navbar-link{
+    text-decoration: none;  
+    color: #f7f9fa;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.navbar-link:hover{
+    color:#ecff1b;
+}
+
+.btn{
+  background-color: #ecff1b;
+  color: #6dd553;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 15px;
+}

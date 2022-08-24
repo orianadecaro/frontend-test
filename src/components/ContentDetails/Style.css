@@ -1,0 +1,29 @@
+.conteiner-details {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.conteiner-imgDetails{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 100px ;
+    margin-left: 80px;
+}
+
+.imgDetails {
+    gap: 30px;
+    max-width: 1200px; 
+    height: 400px;
+}
+
+.pDetails {
+    justify-content: center;
+    align-items: center;
+}
+
+.textDetail{
+  
+   text-align: center;
+  font-size: 60px;
+  }

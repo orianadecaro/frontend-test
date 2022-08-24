@@ -1,0 +1,12 @@
+.conteiner-gallery {
+    max-width: 1200px;
+}
+
+.div-gallery {
+    margin-top: 90px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    justify-content: center;
+
+}

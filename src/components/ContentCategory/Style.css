@@ -1,0 +1,26 @@
+.conteiner-category{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 350px;
+    height: 350px;
+    align-items: center;
+    justify-items: center;
+    border: 1px solid #747070;
+    color: antiquewhite;
+}
+
+.imgCategory{
+    display: flex; 
+    margin-top: 10px;
+    width: 330px;
+    height: 286px;
+}
+
+.btnCategory{
+    font-size: 20px;
+    color:black;
+    text-decoration: none;
+   text-align: end;
+    margin-bottom: 10px;
+}
